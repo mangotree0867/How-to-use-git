@@ -1,7 +1,7 @@
 # How-to-use-git
 This is my own cheat sheet for how to use git / git-hub
-# You can always ask git for help with commands!! 
-#        -> git help / git [command] -h / git help [command]
+You can always ask git for help with commands!! 
+        -> git help / git [command] -h / git help [command]
 
 What is git : it is Source Control Management(SCM) system that you can use to keep track of your work. It is mainly used to work on projects in your local workspace.
 
